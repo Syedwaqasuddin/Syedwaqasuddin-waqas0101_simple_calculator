@@ -1,1 +1,1 @@
-Asimple calculator with TypeScript ,node.js and inquirer
+A simple calculator with TypeScript ,node.js and inquirer
