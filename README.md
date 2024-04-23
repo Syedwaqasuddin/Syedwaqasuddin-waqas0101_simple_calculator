@@ -1,5 +1,1 @@
-"# waqas01_simple.calculator" 
-"# waqas01_simple_calculator" 
-"# waqas0101_simple_calculator" 
-"# waqas0101_simple_calculator" 
-"# Syedwaqasuddin-waqas0101_simple_calculator" 
+Asimple calculator with TypeScript ,node.js and inquirer
