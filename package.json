@@ -1,17 +1,19 @@
 {
-  "name": "waqas01_simple.calculator",
-  "version": "1.0.0",
+  "name": "waqas0101_simple_calculator",
+  "version": "3.0.2",
   "description": "Asimple calculator with TypeScript ,node.js and inquirer,",
   "main": "index.js",
   "type": "module",
-  "bin":"index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.16"
+    "inquirer": "^9.2.16",
+    "ipfs": "^0.66.1",
+    "waqas01_simple.calculator": "^1.0.0"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
